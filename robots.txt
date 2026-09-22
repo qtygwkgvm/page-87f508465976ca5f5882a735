@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vvgffffk.cn/sitemap.xml

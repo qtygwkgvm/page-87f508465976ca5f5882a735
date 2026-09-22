@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2c469f80989ea1c2b23a43c9",
+  "owner": "qtygwkgvm",
+  "repo": "page-87f508465976ca5f5882a735",
+  "title": "莉莉安",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "87f508465976ca5f5882a735",
+      "a": "莉莉安",
+      "b": "机场官网线路发布页",
+      "entity": "莉莉安",
+      "brand": "莉莉安",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "08c09af0d6961a590c36ca7df6e3527adce9166f2bf9b26a6c64667ce21c1e6c",
+      "content": {
+        "primary_entity": "莉莉安",
+        "keyword1": "莉莉安",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，莉莉安专注为跨境访问与流媒体需求提供稳定的网络加速服务，节点覆盖常见热门地区，支持按流量与设备数量灵活选择套餐。基础版适合个人轻度使用，旗舰版增加 IPLC 专线与原生解锁，团队版面向多设备与高带宽场景。订阅周期支持月付与年付，年付更优惠。",
+          "AI_HERO_SUBTITLE": "多节点稳定加速，套餐灵活可选",
+          "AI_HERO_INTRO": "莉莉安提供多种线路与套餐组合，满足个人日常浏览、流媒体观看及团队协作等不同场景。用户可根据设备数量、流量消耗和预算，在基础版、旗舰版与团队版之间自由选择。",
+          "AI_VISUAL_TITLE": "莉莉安网络加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案更经济",
+          "AI_HIGHLIGHT_3": "多平台客户端支持",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "根据使用人数与流量需求选择合适版本，并提前确认设备数量与订阅周期。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台。",
+          "AI_FEATURE_TITLE_2": "按流量定版本",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，覆盖轻度到重度使用。",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算，可按使用计划选择。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "不同操作系统有对应客户端，请根据设备类型安装适配版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 ¥15、旗舰版 ¥35、团队版 ¥85，年付分别 ¥150、¥350、¥850，按需选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备与系统的客户端适配，然后按客户端说明导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，确定适合的套餐版本。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端兼容性。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅信息并连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、付费周期与线路差异。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "打开已安装的客户端，找到订阅管理或配置导入入口，粘贴订阅链接后更新即可。具体操作请参考对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版可支持 20 台。请根据实际设备数量选择合适套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，灵活调整；年付一次性支付，总价更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路有差异吗？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版增加 IPLC 专线并支持原生流媒体解锁，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量耗尽后，可以升级套餐或等待下月重置。建议根据日常用量选择稍高一档的流量套餐。",
+          "AI_CLOSING_TITLE": "莉莉安加速",
+          "AI_CLOSING_TEXT": "选对套餐，即刻体验稳定加速。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vvgffffk.cn",
+    "host": "vvgffffk.cn"
+  },
+  "file_hashes": {
+    "index.html": "98046c6c2e5758f1abf66a4c20e8d12502c8e944d91a41b2eb9f3be856204fb7",
+    "sitemap.xml": "34a3735085164af6ae6b6d0b32ff10a6aed7873b542ce9aa5a6eceb80f2261c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "082776f2dda648ea35c455d4d2f1790052679bd512105ff3d7a42da6b7fbf01b",
+    "robots.txt": "6aa9cc7a53fea4a5fd001d42c05a74a61592590685fafeae27241c1591d1c1af",
+    "d52d57647ce8db9277c73102d1dcf96a.txt": "087743efd9fde0dc21b0a775b7cf4d53a6e4e63f36443142e9bd356d187ba0ce"
+  },
+  "revision": "e14862331120d7724e440dbde2bd49a8516f27ddd818a4aa0d07f112cbfbc72f"
+}
